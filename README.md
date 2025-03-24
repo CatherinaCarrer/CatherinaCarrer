@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently an EPFL student in Chemistry and Chemical Engineering.
 <!--
 **CatherinaCarrer/CatherinaCarrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
